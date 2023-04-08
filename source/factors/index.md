@@ -1,0 +1,43 @@
+---
+title: factors
+date: 2023-04-08 17:39:44
+---
+我的成分：杂。
+成分列表：
+原神
+崩坏3
+明日方舟
+崩坏学院2
+碧蓝档案
+minecraft
+oneshot
+undertale
+我的世界
+逆转裁判
+弹丸论破
+动物森友会
+黎明杀机
+主播女孩重度依赖
+payday2
+cs
+独自在家（一个人在家时）
+FNF
+FNAF
+#孤独摇滚#
+节奏医生
+冰与火之舞
+艾希
+地铁跑酷
+喵斯快跑
+phigros
+在我们之中（我的读法：阿古慕斯）
+半条命
+RPG Maker MV
+HOUSE
+Phasmophobia
+RAVENFIELD
+只狼：影逝二度
+车万（半个）
+术力口人
+ppy厨
+（持续找回中）
