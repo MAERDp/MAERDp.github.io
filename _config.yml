@@ -13,7 +13,8 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: MAERDp.github.io/MAERDp.github.io.git
+url: https://MAERDp.github.io/
+root: /
 permalink: /post/:title.html
 permalink_defaults:
 pretty_urls:
@@ -104,4 +105,4 @@ theme: hexo-theme-fluid
 deploy:
   type: git
   repo: git@github.com:MAERDp/MAERDp.github.io.git
-  branch: master
+  branch: main
